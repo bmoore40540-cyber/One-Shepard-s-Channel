@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "One Shepherd's Channel",
+    "slug": "one-shepherds-channel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1e3a5f"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1e3a5f"
+      },
+      "package": "com.oneshepherd.channel"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "oneshepherd"
+  }
+}
